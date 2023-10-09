@@ -1,0 +1,24 @@
+[submodule "externalLibs/SDL2"]
+	path = externalLibs/SDL2
+	url = https://github.com/libsdl-org/SDL.git
+	branch = SDL2
+[submodule "externalLibs/imgui"]
+	path = externalLibs/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "externalLibs/SDL2_Image"]
+	path = externalLibs/SDL2_Image
+	url = https://github.com/libsdl-org/SDL_image.git
+	branch = SDL2
+[submodule "externalLibs/glm"]
+	path = externalLibs/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "externalLibs/spdlog"]
+	path = externalLibs/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "externalLibs/nlohmann_json"]
+	path = externalLibs/nlohmann_json
+	url = https://github.com/nlohmann/json.git
+[submodule "externalLibs/pugixml"]
+	path = externalLibs/pugixml
+	url = https://github.com/zeux/pugixml.git

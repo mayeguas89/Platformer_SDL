@@ -1,0 +1,32 @@
+{
+  "idle": {
+    "frames": [
+      "Assets/Characters/knight/idle/idle_knight_1.png",
+      "Assets/Characters/knight/idle/idle_knight_2.png",
+      "Assets/Characters/knight/idle/idle_knight_3.png",
+      "Assets/Characters/knight/idle/idle_knight_4.png",
+      "Assets/Characters/knight/idle/idle_knight_5.png",
+      "Assets/Characters/knight/idle/idle_knight_6.png"
+    ],
+    "loop": true,
+    "timeBetweenFrames": 100
+  },
+  "walk": {
+    "frames": [
+      "Assets/Characters/knight/walk/walk_knight_1.png",
+      "Assets/Characters/knight/walk/walk_knight_2.png",
+      "Assets/Characters/knight/walk/walk_knight_3.png",
+      "Assets/Characters/knight/walk/walk_knight_4.png",
+      "Assets/Characters/knight/walk/walk_knight_5.png",
+      "Assets/Characters/knight/walk/walk_knight_6.png",
+      "Assets/Characters/knight/walk/walk_knight_7.png",
+      "Assets/Characters/knight/walk/walk_knight_8.png",
+      "Assets/Characters/knight/walk/walk_knight_9.png",
+      "Assets/Characters/knight/walk/walk_knight_10.png",
+      "Assets/Characters/knight/walk/walk_knight_11.png",
+      "Assets/Characters/knight/walk/walk_knight_12.png"
+    ],
+    "loop": true,
+    "timeBetweenFrames": 100
+  }
+}

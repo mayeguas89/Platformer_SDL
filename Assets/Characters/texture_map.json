@@ -1,0 +1,100 @@
+{
+  "frameWidth": 56,
+  "frameHeight": 56,
+  "rows": 11,
+  "columns": 6,
+  "files": [
+    "Assets/Characters/red/char_red_1.png"
+  ],
+  "animations": {
+    "idle": {
+      "row": 0,
+      "columns": 6,
+      "loop": true,
+      "timeBetweenFrames": 100,
+      "fileIndex": 0,
+      "boundingBoxes": [
+        {
+          "height": 32,
+          "id": 1,
+          "name": "",
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 22,
+          "x": 18,
+          "y": 24
+        },
+        {
+          "height": 32,
+          "id": 1,
+          "name": "",
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 22,
+          "x": 18,
+          "y": 24
+        },
+        {
+          "height": 32,
+          "id": 1,
+          "name": "",
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 22,
+          "x": 18,
+          "y": 24
+        },
+        {
+          "height": 31,
+          "id": 1,
+          "name": "",
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 22,
+          "x": 18,
+          "y": 25
+        },
+        {
+          "height": 31,
+          "id": 1,
+          "name": "",
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 22,
+          "x": 18,
+          "y": 25
+        },
+        {
+          "height": 31,
+          "id": 1,
+          "name": "",
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 22,
+          "x": 18,
+          "y": 25
+        }
+      ]
+    },
+    "attack": {
+      "row": 1,
+      "columns": 6,
+      "loop": false,
+      "timeBetweenFrames": 100,
+      "fileIndex": 0
+    },
+    "run": {
+      "row": 2,
+      "columns": 8,
+      "loop": true,
+      "timeBetweenFrames": 100,
+      "fileIndex": 0
+    }
+  }
+}

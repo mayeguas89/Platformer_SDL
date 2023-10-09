@@ -1,0 +1,41 @@
+{
+  "background": {
+    "layers": [
+      "Assets/Background/background_layer_1.png",
+      "Assets/Background/background_layer_2.png",
+      "Assets/Background/background_layer_3.png"
+    ]
+  },
+  "player": {
+    "frameWidth": 56,
+    "frameHeight": 56,
+    "rows": 11,
+    "columns": 6,
+    "files": [
+      "Assets/Characters/red/char_red_1.png"
+    ],
+    "animations": {
+      "idle": {
+        "row": 0,
+        "columns": 6,
+        "loop": true,
+        "timeBetweenFrames": 100,
+        "fileIndex": 0
+      },
+      "attack": {
+        "row": 1,
+        "columns": 6,
+        "loop": false,
+        "timeBetweenFrames": 100,
+        "fileIndex": 0
+      },
+      "run": {
+        "row": 2,
+        "columns": 8,
+        "loop": true,
+        "timeBetweenFrames": 100,
+        "fileIndex": 0
+      }
+    }
+  }
+}
